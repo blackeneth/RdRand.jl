@@ -1,3 +1,3 @@
 cd(dirname(@__FILE__)) do
-    run(`make`)
+    run(`cmake --build .`)
 end
