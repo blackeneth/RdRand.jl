@@ -1,0 +1,4 @@
+authors = ["Sam Chill samchill@gmail.com"]
+name = "RdRand"
+uuid = "029148a5-efe6-4102-bc69-188b958ea647"
+version = "0.0.1"
